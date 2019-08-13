@@ -1,0 +1,5 @@
+C:\Users\自行车\source\repos\FinalProject\calculator\bin\Debug\calculator.dll
+C:\Users\自行车\source\repos\FinalProject\calculator\bin\Debug\calculator.pdb
+C:\Users\自行车\source\repos\FinalProject\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\自行车\source\repos\FinalProject\calculator\obj\Debug\calculator.dll
+C:\Users\自行车\source\repos\FinalProject\calculator\obj\Debug\calculator.pdb
